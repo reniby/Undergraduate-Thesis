@@ -6,5 +6,7 @@ This system has 2 main functions:
 2. takes in microphone input, moves through different beats at varying intensities based on cues from an instrumental performer
 
 Read research paper here:
+
 Section 3 goes over how the program works and how a user can customize the system
+
 Watch a demonstration video here: (higher pitches at higher amplitude causes intensity change)
